@@ -1,0 +1,2 @@
+rootProject.name = "PIXL Test"
+include ':app'

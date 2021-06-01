@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PIXL Test</string>
+    <string name="to_web_view">To Web View</string>
+    <string name="type_a_url">Type a URL</string>
+    <string name="web">Web</string>
+    <string name="search">Search</string>
+    <string name="search_image">Search Image</string>
+    <string name="search_here">Search Here</string>
+    <string name="loading_more">Loading more…</string>
+</resources>
